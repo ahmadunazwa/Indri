@@ -1,2 +1,2 @@
-# Indri
-indri
+# Indry
+Indry
